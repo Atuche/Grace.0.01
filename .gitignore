@@ -1,0 +1,52 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+logs/
+chatbot.log
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Python virtual environments
+venv/
+env/
+.venv/
+
+# Database / cache
+*.db
+*.sqlite3
+memory.db
+flow_progress.json
+speech_library.json
+
+# Test and temp files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# Image processing cache/temp
+tmp/
+*.jpeg
+*.jpg
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# AWS credentials (precaution)
+.aws/
