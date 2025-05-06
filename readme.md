@@ -57,5 +57,3 @@ Add voice note interpretation using speech-to-text.
 Hook into CRM or Google Sheets for lead tracking.
 
 Deploy to AWS Lambda for scalability.
-
-Let me know if you'd like this formatted into a document, turned into a README, or want help with pitch decks or visuals!
